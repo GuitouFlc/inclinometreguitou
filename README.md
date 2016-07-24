@@ -1,5 +1,7 @@
 # inclinometreguitou
 
+Tuto disponible en francais sur https://www.memorandum.ovh
+
 Thanks to camerontech for is great job 
 
 my sketch is only an adaptation of his repo.
